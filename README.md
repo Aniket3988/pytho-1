@@ -1,2 +1,2 @@
 # pytho-1
-this isa my nation
+this is my nation
